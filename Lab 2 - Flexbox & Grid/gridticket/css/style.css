@@ -1,0 +1,52 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.display-none {
+    display: none;
+}
+
+.pic {
+    background-image: url(../images/festival.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+header {
+    background-color: black;
+}
+
+header h1 {
+    margin-top: 0;
+}
+
+header p {
+    padding-top: 0;
+    font-weight: lighter;
+    padding-bottom: 2em;
+}
+
+header h1, p {
+    letter-spacing: 0.5em;
+    text-align: center;
+    padding-top: 1em;
+    color: white;
+}
+
+.image {
+    text-align: center;
+    padding: 5em 0;
+}
+
+.image img {
+    max-width: 100%;
+    width: 400px;
+}
