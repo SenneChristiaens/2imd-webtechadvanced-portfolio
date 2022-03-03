@@ -25,9 +25,9 @@ export default class App {
     createItem(e) {
         if(e.key === "Enter"){
       console.log("📕");
-      let todo = new Todo("Dit");
-      Todo.add();
-      Todo.saveToStorage();
+      let todo = new Todo(document.getElementById("add-item-text").value);
+      todo.add();
+      this.reset();
         }
       // HINT🤩
       // this function should create a new todo by using the Todo() class
@@ -40,13 +40,15 @@ export default class App {
     }
   
     loadFromStorage() {
+        this.loadFromStorage();
       // HINT🤩
       // load all items from storage here and add them to the screen
       // use the Todo class to create the elements
     }
   
     reset() {
+        document.getElementById("add-item-text").value = '';
       // this function should reset the form / clear the text field
     }
-  }
+}
   
