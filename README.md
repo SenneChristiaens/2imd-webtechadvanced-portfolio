@@ -12,3 +12,7 @@ Link to repository: https://github.com/SenneChristiaens/2imd-webtechadvanced-lab
 Link to Codepen The Future: https://codepen.io/sennechristiaens/pen/OJOwWOd
 
 Link to Codepen Ticket: https://codepen.io/sennechristiaens/pen/OJOBBzR
+
+## Lab 3
+
+Link to Codepen Todo App: https://codepen.io/sennechristiaens/pen/ExoVXdO
