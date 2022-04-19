@@ -23,4 +23,4 @@ Link to Codepen Todo App: https://codepen.io/sennechristiaens/pen/ExoVXdO
 
 - [Lab 4](https://github.com/SenneChristiaens/2imd-webtechadvanced-portfolio/tree/main/Lab%204%20-%20API)
 
-Link to Codepen WeatherApp: https://codesandbox.io/s/condescending-water-mg64bf
+Link to Codepen WeatherApp: https://codesandbox.io/s/weather-app-f43unm
